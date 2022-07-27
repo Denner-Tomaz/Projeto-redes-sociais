@@ -24,6 +24,13 @@ section {}
           background-color: aliceblue;
           height: 627px; 
           width: 311px;
-          background: url(../imagens/frame-iphone.png) no-repeat;}
+          background: url(../imagens/frame-iphone.png) no-repeat;
+        }
+        
+#tela {position: relative;
+      top:78px ;
+      left: 22px;
+      height: 474px;
+      width: 268px;}
 
 #social {}
