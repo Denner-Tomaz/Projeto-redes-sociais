@@ -35,9 +35,9 @@ main {position: relative;
         }
         
 #tela {     position: relative;
-            top:78px ;
+            top:77px ;
             left: 22px;
-            height: 474px;
+            height: 476px;
             width: 268px;}
 
 #social {text-align: right;}
@@ -50,7 +50,7 @@ main {position: relative;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.034);
             box-sizing: border-box;
             box-sizing: cover;
-            
+          
             
             }
 
