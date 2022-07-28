@@ -39,7 +39,8 @@ main {position: relative;
 #social {text-align: right;}
 
 
-#social img {width: 50px;
+#social img {max-width: 35px;
+            min-width:35px;
             margin: 10px;
             border-radius: 50%;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.034);
