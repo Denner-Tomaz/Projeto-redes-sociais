@@ -36,9 +36,10 @@ main {position: relative;
         
 #tela {     position: relative;
             top:77px ;
-            left: 21px;
+            left: 20px;
             height: 476px;
-            width: 270px;}
+            width: 270px;
+            background-size: cover;}
 
 #social {text-align: right;}
 
