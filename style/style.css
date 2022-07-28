@@ -4,17 +4,17 @@
   padding: 0px;
   font-family: Arial, Helvetica, sans-serif;}
 
-html, body { height: 100vh;
-             width: 100vw;}
+html, body {width: 100vw;
+            min-height: 100vh;
+            background-color: black;
+             }
 
 body {background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
      background-size: cover;
      background-attachment: fixed;}
 
-main {position: relative;
-      height: 100vh;}
  
-#telefone {min-width: 23em;
+#telefone {
           position: absolute;
           top: 50%;
           left: 50%;
@@ -26,11 +26,11 @@ main {position: relative;
           
         }
         
-#tela {position: relative;
-      top:78px ;
-      left: 22px;
-      height: 474px;
-      width: 268px;}
+#tela {     position: relative;
+            top:78px ;
+            left: 22px;
+            height: 474px;
+            width: 268px;}
 
 #social {text-align: right;}
 
@@ -40,6 +40,7 @@ main {position: relative;
             border-radius: 50%;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.034);
             box-sizing: border-box;
+            box-sizing: cover;
             
             }
 
