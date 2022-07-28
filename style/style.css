@@ -14,11 +14,6 @@ body {background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
 main {position: relative;
       height: 100vh;}
  
-section {
-        }
-
-section {}
-
 #telefone {min-width: 23em;
           position: absolute;
           top: 50%;
