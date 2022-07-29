@@ -20,7 +20,7 @@ main {position: relative;
 #telefone {min-width: 320px;
            max-width: 800px;
            margin:-23px;
-          
+           
            
           position: absolute;
           top: 50%;
@@ -39,9 +39,12 @@ main {position: relative;
             left: 20px;
             height: 476px;
             width: 270px;
-            background-size: cover;}
+           }
 
-#social {text-align: right;}
+#social {
+          text-align: right;
+          position: relative;
+                              }
 
 
 #social img {max-width: 35px;
